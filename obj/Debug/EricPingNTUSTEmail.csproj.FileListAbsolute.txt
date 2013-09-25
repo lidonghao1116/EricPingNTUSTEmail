@@ -1,0 +1,52 @@
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\EricPingNTUSTEmail.csprojResolveAssemblyReference.cache
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\EricPingNTUSTEmail.frmLogin.resources
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\EricPingNTUSTEmail.lib.frmPathSelect.resources
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\EricPingNTUSTEmail.Properties.Resources.resources
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\EricPingNTUSTEmail.csproj.GenerateResource.Cache
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\EricPingNTUSTEmail.exe.config
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\EricPingNTUSTEmail.exe
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\EricPingNTUSTEmail.pdb
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\Mail.dll
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\Mail.xml
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\EricPingNTUSTEmail.exe
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\EricPingNTUSTEmail.pdb
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.exe.config
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.exe
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.pdb
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.exe
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.pdb
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.csprojResolveAssemblyReference.cache
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmLoading.resources
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.frmLogin.resources
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmPathSelect.resources
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.Properties.Resources.resources
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.csproj.GenerateResource.Cache
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.exe.config
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.exe
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.pdb
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.exe
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.pdb
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.csprojResolveAssemblyReference.cache
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmLoading.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.frmLogin.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmPathSelect.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.Properties.Resources.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.csproj.GenerateResource.Cache
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmMain.resources
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmMain.resources
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\bin\Debug\OpenPop.dll
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.exe.config
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.exe
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.pdb
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.csprojResolveAssemblyReference.cache
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmLoading.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.frmLogin.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmMain.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmPathSelect.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.Properties.Resources.resources
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.csproj.GenerateResource.Cache
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.exe
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\bin\Debug\EricPingNTUSTEmail.pdb
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\bin\Debug\OpenPop.dll
+C:\Users\Ping\Desktop\EricPingNTUSTEmail\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmSend.resources
+C:\Users\EricPing\Desktop\EricPingNTUSTEmail\obj\Debug\EricPingNTUSTEmail.lib.frmSend.resources

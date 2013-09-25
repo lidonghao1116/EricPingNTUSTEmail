@@ -1,0 +1,12 @@
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\HowardEmailProgram.exe.config
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\HowardEmailProgram.csprojResolveAssemblyReference.cache
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\HowardEmailProgram.csproj.GenerateResource.Cache
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\HowardEmailProgram.exe
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\HowardEmailProgram.pdb
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\HowardEmailProgram.Properties.Resources.resources
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\HowardEmailProgram.exe
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\HowardEmailProgram.pdb
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\Mail.dll
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\bin\Debug\Mail.xml
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\HowardEmailProgram.frmLogin.resources
+c:\users\ericping\documents\visual studio 2012\Projects\HowardEmailProgram\obj\Debug\HowardEmailProgram.lib.frmPathSelect.resources
